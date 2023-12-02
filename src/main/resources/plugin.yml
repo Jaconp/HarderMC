@@ -1,0 +1,4 @@
+name: HarderMC
+version: '${project.version}'
+main: com.stickms.hardermc.HarderMCPlugin
+api-version: '1.20'
